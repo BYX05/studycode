@@ -1,4 +1,4 @@
-package learn;
+package learn.studycode.算法.链表简单;
 
 public class MergeTwoLists {
     public static class ListNode {

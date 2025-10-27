@@ -1,4 +1,4 @@
-package learn;
+package learn.studycode.算法;
 
 public class SelectBubbleInsert {
     public static void main(String[] args) {

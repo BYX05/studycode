@@ -1,4 +1,4 @@
-package learn;
+package learn.studycode.算法;
 
 import java.util.ArrayList;
 

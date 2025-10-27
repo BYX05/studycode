@@ -1,4 +1,4 @@
-package learn;
+package learn.studycode.算法.二分查找;
 
 import java.util.Arrays;
 
